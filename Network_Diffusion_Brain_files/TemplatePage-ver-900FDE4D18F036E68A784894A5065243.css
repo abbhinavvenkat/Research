@@ -1,0 +1,7 @@
+div#exportPanel {
+	color:black;
+	display:block;
+	text-align:left;
+	z-index: 500;
+	position: relative;
+} 
